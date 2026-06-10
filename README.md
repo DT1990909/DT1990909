@@ -17,27 +17,27 @@ I turn messy data into decisions. With 6+ years across financial intelligence be
 ### 🎯 Customer Churn Propensity Model
 Predictive modelling on the Telco customer dataset — logistic regression and random forest classifiers with ROC-AUC evaluation, translated into plain-English audience segment narratives for non-technical stakeholders.
 **Skills:** Python · scikit-learn · pandas · predictive modelling · stakeholder communication
-→ [View project](https://github.com/YOUR_USERNAME/telco-churn-propensity)
+→ [View project](https://github.com/DT1990909/telco-churn-propensity)
 
 ### 💳 Credit Risk Scorecard
 End-to-end credit risk scoring model: feature engineering, weight-of-evidence binning, logistic regression scorecard, and performance monitoring framework.
 **Skills:** Python · risk modelling · regulatory awareness (FCA-certified)
-→ [View project](https://github.com/YOUR_USERNAME/credit-risk-scorecard)
+→ [View project](https://github.com/DT1990909/credit-risk-scorecard)
 
 ### 📈 DCF Valuation Model
 Discounted cash flow valuation engine with sensitivity analysis — WACC estimation, terminal value modelling, and scenario tables for equity research workflows.
 **Skills:** Python · financial modelling · valuation · investment research
-→ [View project](https://github.com/YOUR_USERNAME/dcf-valuation-model)
+→ [View project](https://github.com/DT1990909/dcf-valuation-model)
 
 ### 📊 Stock Portfolio Analyser
 Portfolio performance and risk analytics — returns decomposition, Sharpe/Sortino ratios, drawdown analysis, and correlation heatmaps.
 **Skills:** Python · quantitative analysis · matplotlib/seaborn
-→ [View project](https://github.com/YOUR_USERNAME/stock-portfolio-analyser)
+→ [View project](https://github.com/DT1990909/stock-portfolio-analyser)
 
 ### 🌍 Macro Economic Dashboard
 Interactive dashboard tracking key macro indicators — inflation, rates, GDP, employment — with automated data pulls and clear visual storytelling.
 **Skills:** Python · data visualisation · API integration · dashboarding
-→ [View project](https://github.com/YOUR_USERNAME/macro-economic-dashboard)
+→ [View project](https://github.com/DT1990909/macro-economic-dashboard)
 
 ---
 
@@ -51,7 +51,7 @@ Currently deepening my cloud analytics skills (BigQuery / GCP) alongside my MSc 
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- 📧 YOUR_EMAIL@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/daryl-thompson-432665105)
+- 📧 darylthompson2011@yahoo.com
 
 *Open to Data Analyst, BI Analyst, Investment Research, and Market Research opportunities in London.*
